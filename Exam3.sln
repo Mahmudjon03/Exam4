@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractShape", "AbstractShape\AbstractShape.csproj", "{8E7D4603-D85B-4DCC-AE94-3F612AE557BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Circle", "Circle\Circle.csproj", "{5C02141E-D6E0-4E40-9ED8-7917D7A5EC15}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employee", "Employee\Employee.csproj", "{17F793FF-D9CB-45A9-B8DB-E354E1969A57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E7D4603-D85B-4DCC-AE94-3F612AE557BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7D4603-D85B-4DCC-AE94-3F612AE557BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7D4603-D85B-4DCC-AE94-3F612AE557BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7D4603-D85B-4DCC-AE94-3F612AE557BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C02141E-D6E0-4E40-9ED8-7917D7A5EC15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C02141E-D6E0-4E40-9ED8-7917D7A5EC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C02141E-D6E0-4E40-9ED8-7917D7A5EC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C02141E-D6E0-4E40-9ED8-7917D7A5EC15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F793FF-D9CB-45A9-B8DB-E354E1969A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F793FF-D9CB-45A9-B8DB-E354E1969A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F793FF-D9CB-45A9-B8DB-E354E1969A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F793FF-D9CB-45A9-B8DB-E354E1969A57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {874F81A0-7CD0-4189-B02E-C3B12CD41BC0}
+	EndGlobalSection
+EndGlobal

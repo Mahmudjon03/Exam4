@@ -1,0 +1,15 @@
+C:\Users\hhp\Desktop\Exam\Exam3\AbstractShape\bin\Debug\net7.0\AbstractShape.exe
+C:\Users\hhp\Desktop\Exam\Exam3\AbstractShape\bin\Debug\net7.0\AbstractShape.deps.json
+C:\Users\hhp\Desktop\Exam\Exam3\AbstractShape\bin\Debug\net7.0\AbstractShape.runtimeconfig.json
+C:\Users\hhp\Desktop\Exam\Exam3\AbstractShape\bin\Debug\net7.0\AbstractShape.dll
+C:\Users\hhp\Desktop\Exam\Exam3\AbstractShape\bin\Debug\net7.0\AbstractShape.pdb
+C:\Users\hhp\Desktop\Exam\Exam3\AbstractShape\obj\Debug\net7.0\AbstractShape.csproj.AssemblyReference.cache
+C:\Users\hhp\Desktop\Exam\Exam3\AbstractShape\obj\Debug\net7.0\AbstractShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhp\Desktop\Exam\Exam3\AbstractShape\obj\Debug\net7.0\AbstractShape.AssemblyInfoInputs.cache
+C:\Users\hhp\Desktop\Exam\Exam3\AbstractShape\obj\Debug\net7.0\AbstractShape.AssemblyInfo.cs
+C:\Users\hhp\Desktop\Exam\Exam3\AbstractShape\obj\Debug\net7.0\AbstractShape.csproj.CoreCompileInputs.cache
+C:\Users\hhp\Desktop\Exam\Exam3\AbstractShape\obj\Debug\net7.0\AbstractShape.dll
+C:\Users\hhp\Desktop\Exam\Exam3\AbstractShape\obj\Debug\net7.0\refint\AbstractShape.dll
+C:\Users\hhp\Desktop\Exam\Exam3\AbstractShape\obj\Debug\net7.0\AbstractShape.pdb
+C:\Users\hhp\Desktop\Exam\Exam3\AbstractShape\obj\Debug\net7.0\AbstractShape.genruntimeconfig.cache
+C:\Users\hhp\Desktop\Exam\Exam3\AbstractShape\obj\Debug\net7.0\ref\AbstractShape.dll

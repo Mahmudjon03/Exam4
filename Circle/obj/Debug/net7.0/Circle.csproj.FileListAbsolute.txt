@@ -1,0 +1,15 @@
+C:\Users\hhp\Desktop\Exam\Exam3\circle\bin\Debug\net7.0\Circle.exe
+C:\Users\hhp\Desktop\Exam\Exam3\circle\bin\Debug\net7.0\Circle.deps.json
+C:\Users\hhp\Desktop\Exam\Exam3\circle\bin\Debug\net7.0\Circle.runtimeconfig.json
+C:\Users\hhp\Desktop\Exam\Exam3\circle\bin\Debug\net7.0\Circle.dll
+C:\Users\hhp\Desktop\Exam\Exam3\circle\bin\Debug\net7.0\Circle.pdb
+C:\Users\hhp\Desktop\Exam\Exam3\circle\obj\Debug\net7.0\Circle.csproj.AssemblyReference.cache
+C:\Users\hhp\Desktop\Exam\Exam3\circle\obj\Debug\net7.0\Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhp\Desktop\Exam\Exam3\circle\obj\Debug\net7.0\Circle.AssemblyInfoInputs.cache
+C:\Users\hhp\Desktop\Exam\Exam3\circle\obj\Debug\net7.0\Circle.AssemblyInfo.cs
+C:\Users\hhp\Desktop\Exam\Exam3\circle\obj\Debug\net7.0\Circle.csproj.CoreCompileInputs.cache
+C:\Users\hhp\Desktop\Exam\Exam3\circle\obj\Debug\net7.0\Circle.dll
+C:\Users\hhp\Desktop\Exam\Exam3\circle\obj\Debug\net7.0\refint\Circle.dll
+C:\Users\hhp\Desktop\Exam\Exam3\circle\obj\Debug\net7.0\Circle.pdb
+C:\Users\hhp\Desktop\Exam\Exam3\circle\obj\Debug\net7.0\Circle.genruntimeconfig.cache
+C:\Users\hhp\Desktop\Exam\Exam3\circle\obj\Debug\net7.0\ref\Circle.dll
